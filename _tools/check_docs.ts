@@ -88,6 +88,7 @@ const ENTRY_POINTS = [
   "../semver/mod.ts",
   "../streams/mod.ts",
   "../streams/unstable_fixed_chunk_stream.ts",
+  "../streams/unstable_limited_bytes_transform_stream.ts",
   "../streams/unstable_to_lines.ts",
   "../streams/unstable_to_bytes.ts",
   "../tar/mod.ts",
